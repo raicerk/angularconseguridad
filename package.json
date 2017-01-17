@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/raicerk/angularconseguridad/issues"
   },
-  "homepage": "https://github.com/raicerk/angularconseguridad#readme"
+  "homepage": "https://github.com/raicerk/angularconseguridad#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-ui-router": "^0.3.2",
+    "satellizer": "^0.15.5"
+  }
 }
